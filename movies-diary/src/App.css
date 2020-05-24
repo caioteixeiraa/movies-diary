@@ -7,8 +7,19 @@
   text-align: center;
 }
 
-.header {
-  background-color: #14181C;
-  color: #fff;
+@font-face {
+  font-family: 'Hollywood Hills';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./fonts/SF\ Hollywood\ Hills.ttf) format('truetype');
   padding: 0.5em;
+  font-family: 'Hollywood Hills';
+}
+
+.header {
+  font-family: 'Hollywood Hills';
+  color: #fff;
+  background-color: #14181C;
+  padding: 0.5em;
+  font-size: 3em;
 }
