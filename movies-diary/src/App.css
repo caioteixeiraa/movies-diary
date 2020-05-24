@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: #14181C;
+  color: #fff;
+  padding: 0.5em;
+}
